@@ -2,18 +2,9 @@
 label: George Heginbotham
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
 - type: file
   name: image
   label: image
-- type: boolean
-  name: showonlyimage
-  label: showonlyimage
 - type: text
   name: title
   label: title
-- type: number
-  name: weight
-  label: weight
