@@ -6,4 +6,4 @@ title = "Futurelife Peanut Butter Smoothie Recipe Ad"
 weight = 0
 
 +++
-[https://www.youtube.com/watch?v=2q9T7wOzhms](https://www.youtube.com/watch?v=2q9T7wOzhms "https://www.youtube.com/watch?v=2q9T7wOzhms")
+{{< youtube 2q9T7wOzhms >}}
