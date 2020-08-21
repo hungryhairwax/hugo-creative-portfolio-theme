@@ -1,10 +1,10 @@
 +++
-image = "/uploads/maxresdefault.jpg"
-title = "hungryhairwax"
+image = ""
+title = "Futurelife Peanut Butter & Banana Recipe"
 
 +++
-hungryhairwax is a product I invented that I'm making a brand of.
+This is a video I made for Strom Rodger's cooking class in 
 
 This is the launch ad I created:
 
-{{< youtube Otv5BJ8RUk0 >}}
+{{< youtube AyVz-fXlowg >}}
