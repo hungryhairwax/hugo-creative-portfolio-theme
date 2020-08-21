@@ -6,4 +6,6 @@ title = "Video - Futurelife Peanut Butter Smoothie Recipe"
 weight = 0
 
 +++
+# Video - Futurelife Peanut Butter Smoothie Recipe
+
 {{< youtube 2q9T7wOzhms >}}
