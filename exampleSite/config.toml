@@ -1,4 +1,4 @@
-baseurl = "https://georgeheginbotham.netlify.app/portfolio/"
+baseurl = "https://georgeheginbotham.netlify.app/"
 title = "Creative portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
