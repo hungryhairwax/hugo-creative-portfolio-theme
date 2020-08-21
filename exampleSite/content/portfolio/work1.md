@@ -6,3 +6,4 @@ title = "Futurelife Peanut Butter Smoothie Recipe Ad"
 weight = 0
 
 +++
+[new-future-life-smart-food-smoothie-video.mp4](/uploads/new-future-life-smart-food-smoothie-video.mp4 "new-future-life-smart-food-smoothie-video.mp4")
