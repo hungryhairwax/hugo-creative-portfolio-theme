@@ -3,8 +3,6 @@ image = ""
 title = "Futurelife Peanut Butter & Banana Recipe"
 
 +++
-This is a video I made for Strom Rodger's cooking class in 
+{{< youtube 2q9T7wOzhms >}}
 
-This is the launch ad I created:
-
-{{< youtube AyVz-fXlowg >}}
+Attention-grabbing, educational & high quality, all things I consider make a great ad!
