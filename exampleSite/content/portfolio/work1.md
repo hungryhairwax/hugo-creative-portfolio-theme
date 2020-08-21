@@ -7,5 +7,3 @@ weight = 0
 
 +++
 Blah Blah
-
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/2q9T7wOzhms](https://www.youtube.com/embed/2q9T7wOzhms "https://www.youtube.com/embed/2q9T7wOzhms")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
