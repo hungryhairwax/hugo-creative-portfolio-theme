@@ -1,6 +1,6 @@
 +++
 date = ""
-image = "/uploads/new-future-life-smart-food-smoothie-video-00_00_22_27-still001.jpg"
+image = "/uploads/future-life-smoothie-ad.jpg"
 showonlyimage = false
 title = "Smoothie AD | Futurelife #1"
 weight = 1
