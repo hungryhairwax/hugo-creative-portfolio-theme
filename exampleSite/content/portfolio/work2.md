@@ -6,4 +6,4 @@ title = "Smoothie AD | Futurelife #1"
 weight = 1
 
 +++
-{{< youtube 2q9T7wOzhms >}}
+{{< youtube [cFETo1IFBEU](https://youtu.be/cFETo1IFBEU) >}}
