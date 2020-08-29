@@ -9,5 +9,4 @@ fields:
   name: title
   label: title
 pages:
-- exampleSite/content/portfolio/hungryhairwax.md
 - exampleSite/content/portfolio/strom-rodger-conscious-cooking.md
