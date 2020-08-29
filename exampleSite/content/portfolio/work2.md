@@ -2,7 +2,7 @@
 date = ""
 image = "/uploads/future-life-smoothie-ad.jpg"
 showonlyimage = false
-title = "Smoothie AD | Futurelife #1"
+title = "Futurelife Smoothie AD"
 weight = 1
 
 +++
