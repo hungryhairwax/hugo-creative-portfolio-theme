@@ -1,9 +1,11 @@
 +++
-date = 2016-11-05T14:27:40Z
-image = "img/portfolio/label-clothes.jpg"
+date = ""
+image = "/uploads/summer-fruits-mix.jpg"
 showonlyimage = false
 title = "Woolworths Summer Fruits Mix AD"
 weight = 7
 
 +++
+{{< youtube q3JjZ2zhozw >}}
+
 Personal Project
