@@ -48,7 +48,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Restaurant Social Media Services"
-  url = "Restaurant-Social-Media-Services/"
+  url = "about/"
 
   [[params.navlinks]]
   name = "Get in touch"
