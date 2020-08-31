@@ -1,5 +1,5 @@
 +++
-date = 2016-11-05T15:35:33Z
+date = ""
 title = "My services"
 
 +++
@@ -20,9 +20,7 @@ title = "My services"
 
 #### Social media assistance services (IG & FB): R2000pm.
 
-My job is to make running your social media easier & implement my marketing strategy, not run it completely. The account is still yours, you just won't have to worry about it anymore as I will be maintaining your digital presence every week. 
-
-Includes:
+My job is to make running your social media easier & implement my marketing strategy, not run it completely. The account is still yours, you just won't have to worry about it anymore as I will be maintaining your digital presence every day. 
 
 * Free access to my content (photos & short videos).
 * Weekly posting with caption & hashtags, 5 days a week.
