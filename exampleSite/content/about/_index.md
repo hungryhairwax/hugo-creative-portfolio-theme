@@ -3,7 +3,6 @@ date = 2016-11-05T15:35:33Z
 title = "My services"
 
 +++
-### I can offer you:
 
 * Video content
 * Photo content
