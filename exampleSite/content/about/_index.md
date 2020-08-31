@@ -12,7 +12,7 @@ My job is to make managing your social media account easier & maintain your digi
 * Free access to my time & content (photos & short videos).
 * Weekly posting to IG & FB with custom captions & hashtags, 5 days a week.
 
-My organic results from Upper Bloem Restaurant for 24th August to the 30th: [https://drive.google.com/drive/folders/10zPbAm78mPMAh05PKWFgoSr-xOvOH6lr?usp=sharing](https://drive.google.com/drive/folders/10zPbAm78mPMAh05PKWFgoSr-xOvOH6lr?usp=sharing "https://drive.google.com/drive/folders/10zPbAm78mPMAh05PKWFgoSr-xOvOH6lr?usp=sharing")
+My recent results from Upper Bloem Restaurant (for 7 DAYS): [https://drive.google.com/drive/folders/10zPbAm78mPMAh05PKWFgoSr-xOvOH6lr?usp=sharing](https://drive.google.com/drive/folders/10zPbAm78mPMAh05PKWFgoSr-xOvOH6lr?usp=sharing "https://drive.google.com/drive/folders/10zPbAm78mPMAh05PKWFgoSr-xOvOH6lr?usp=sharing")
 
 The engagement I've gotten:
 
