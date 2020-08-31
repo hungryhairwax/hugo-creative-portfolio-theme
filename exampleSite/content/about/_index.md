@@ -5,6 +5,8 @@ title = "Social Media Assistance Services"
 +++
 #### Social Media Assistance Services (IG & FB): R2000pm.
 
+FOR RESTAURANTS ONLY
+
 My job is to make managing your social media account easier & maintain your digital presence. You get:
 
 * Free access to my time & content (photos & short videos).
