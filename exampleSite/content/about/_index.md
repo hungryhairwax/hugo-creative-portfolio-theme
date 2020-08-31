@@ -22,4 +22,4 @@ _Note: I will not reply to comments, only like them, I will not reply to DM's & 
 
 P.S. 
 
-Imagine one day, one of your followers wants to eat out. They think "where should I go?" & immediately your brand pops into their mind! Why? It might be because they've been blasted by your high-quality-educational content every day for the past month.
+Imagine one day, one of your followers wants to eat out. They think "where should eat?" & immediately your brand pops into their mind! Why? It might be because they've been blasted by your high-quality-educational content every day for the past month.
