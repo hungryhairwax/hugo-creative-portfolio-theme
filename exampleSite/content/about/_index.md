@@ -1,21 +1,49 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
+date = 2016-11-05T15:35:33Z
 title = "About me"
+
 +++
+### I can offer you:
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+* Video content
+* Photo content
+* Marketing suggestions
+* Marketing strategy
+* Copywriting
+* Website building 
+* Social media assistance & management
+* E-book Creation & marketing
+* E-Course Creation & marketing
+* 24/7 support from me
+* Digital maintenance/clean up
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+### My rates:
 
-![This is me][1]
+#### Social media assistance services (IG & FB): R2000pm.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Includes:
 
-#### Education
+* Free access to my content (photos & short videos).
+* Weekly posting with caption & hashtags, 5 days a week.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+Note: I will not reply to comments, only like them, I will not reply to DM's & I will seldomly post to your story.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+My job is to make running your social media easier & implement my marketing strategy, not run it completely. The account is still yours, you just won't have to worry about it anymore as I will be maintaining your digital presence every week. 
 
-[1]: /img/about.jpg
+My most recent results for Upper Bloem Restaurant:
+
+Of
+
+Each post I make I send you an approval request WhatApp, where can ask/make changes to the post.
+
+Example:
+
+You get a lot more than just my deliverables. Imagine one day one of your followers wants to eat out. They think "where should I go?" & immediately your brand pops into their mind! Why? It might be because they've been blasted by your high-quality educational content every day for the past month.
+
+Or a website viewer/searcher is on the fence of whether order your food until they see your social media page. 
+
+Videography seriveces
+
+Photography services
+
+E-book creation services
