@@ -20,8 +20,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/about
-  label: About
+  path: exampleSite/content/RestaurantSocialMediaServices
+  label: Restaurant Social Media Services
   create: all
   match: "**/*"
 upload_dir: exampleSite/static/uploads
