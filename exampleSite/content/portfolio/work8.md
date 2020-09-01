@@ -1,9 +1,15 @@
 +++
 date = 2016-11-05T14:29:22Z
-image = "img/portfolio/ipad-air-2.jpg"
+image = "/uploads/vegan-ice-cream.jpg"
 showonlyimage = false
-title = "dfdfdfdf"
+title = "How to make Vegan Ice Cream | FaithfulToNature"
 weight = 8
 
 +++
-dd
+{{< youtube taeVRTdbaYs >}}
+
+Reference: Mischke Bosse
+
+I made this video for their Facebook account, it's a sponsorship. Its the 2nd most organically viewed video on their FaceBook account.
+
+[https://www.facebook.com/133109383379275/videos/2477282795629783/?](https://www.facebook.com/133109383379275/videos/2477282795629783/? "https://www.facebook.com/133109383379275/videos/2477282795629783/?")[**so**=channel_tab&**rv**=all_videos_card](https://www.facebook.com/133109383379275/videos/2477282795629783/?__so__=channel_tab&__rv__=all_videos_card "https://www.facebook.com/133109383379275/videos/2477282795629783/?__so__=channel_tab&__rv__=all_videos_card")
