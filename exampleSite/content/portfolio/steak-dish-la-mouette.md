@@ -3,7 +3,7 @@ date = ""
 image = "/uploads/steaklam.jpg"
 showonlyimage = true
 title = "Steak Dish | La Mouette"
-weight = "6"
+weight = "10"
 
 +++
 You can view my restaurant content here:
