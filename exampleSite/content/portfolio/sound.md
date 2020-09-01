@@ -3,12 +3,12 @@ date = ""
 draft = true
 image = ""
 showonlyimage = false
-title = "Sound"
+title = "Sound & equipment"
 weight = 4
 
 +++
-* Nikon Z6,
-* Canon 250D,
-* Nikon SB-700 Speedlight,
-* Tripod,
-* Gimble
+* Studio Light
+* Reflectors
+* Blue Snowball microphone
+* Omnidirectional microphone
+* Zoom h5
