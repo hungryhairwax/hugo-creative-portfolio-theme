@@ -1,12 +1,11 @@
 +++
 date = ""
-draft = true
-image = "/uploads/storm-cc.jpg"
+image = "/uploads/baconandeggsand.jpg"
 showonlyimage = false
-title = "Storm Rodger | Conscious Cooking-(copy)"
-weight = 9
+title = "Bacon & Egg Half Sandwich"
+weight = "10"
 
 +++
-{{< youtube SUJqF47NRA >}}
+{{< youtube DAEJTCuI0WI >}}
 
-Reference: Storm Rodger
+Personal project.
