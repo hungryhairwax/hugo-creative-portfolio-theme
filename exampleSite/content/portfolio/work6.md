@@ -3,7 +3,7 @@ date = ""
 image = ""
 showonlyimage = false
 title = "Software"
-weight = 6
+weight = "8"
 
 +++
 Adobe Premiere Pro 2020,
