@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 image = ""
 showonlyimage = false
 title = "Sound & equipment"
