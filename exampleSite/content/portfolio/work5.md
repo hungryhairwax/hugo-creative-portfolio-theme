@@ -1,13 +1,13 @@
 +++
 date = ""
-image = "/uploads/carrot-dish.jpg"
+image = "/uploads/snickersvegan.jpg"
 showonlyimage = true
-title = "Carrot Dish | Upper Bloem Restaurant"
+title = "Vegan Snickers Bar | YoGoodness"
 weight = 5
 
 +++
-You can view my full-quality album for Upper Bloem Restaurant content here:
+You can view my restaurant content here:
 
 [https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing](https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing "https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing")
 
-Reference: Mari Vigar
+Reference: Ursula Hendricks
