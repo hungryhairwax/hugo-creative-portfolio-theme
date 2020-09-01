@@ -1,5 +1,5 @@
 +++
-date = 2016-11-05T14:26:17Z
+date = ""
 image = ""
 showonlyimage = false
 title = "Software"
