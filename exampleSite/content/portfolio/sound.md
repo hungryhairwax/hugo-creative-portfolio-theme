@@ -3,7 +3,7 @@ date = ""
 image = ""
 showonlyimage = false
 title = "Sound & equipment"
-weight = 4
+weight = "7"
 
 +++
 * Studio Light,
