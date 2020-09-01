@@ -3,7 +3,7 @@ date = ""
 image = "/uploads/burger-hand.jpg"
 showonlyimage = true
 title = "Fried Egg & Avo Burger"
-weight = "4"
+weight = "2"
 
 +++
 Images for my upcoming burger book:
