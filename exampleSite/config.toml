@@ -55,8 +55,8 @@ googleAnalytics = ""
   url = "VideographyServices/"
   
     [[params.navlinks]]
-  name = "Photograephy Services"
-  url = "PhotograephyServices/"
+  name = "Photography Services"
+  url = "PhotographyServices/"
   
     [[params.navlinks]]
   name = "E-Book Creation Services"
