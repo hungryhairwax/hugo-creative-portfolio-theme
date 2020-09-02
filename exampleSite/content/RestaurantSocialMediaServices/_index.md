@@ -18,6 +18,6 @@ My job is to make managing your social media account easier & maintain your digi
 
 View a gallery of my restaurant-related work:
 
-[https://drive.google.com/file/d/127lJEG_2KZdSkRh40vZL4191LdiZpsqI/view?usp=sharing](https://drive.google.com/file/d/127lJEG_2KZdSkRh40vZL4191LdiZpsqI/view?usp=sharing "https://drive.google.com/file/d/127lJEG_2KZdSkRh40vZL4191LdiZpsqI/view?usp=sharing")
+[https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing](https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing "https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing")
 
 _Note: I will not reply to comments, only like them, I will not reply to DM's & I will seldomly post to your story. Each post I make, I will send you an approval request on WhatsApp for, where you can request/make changes to the post._
