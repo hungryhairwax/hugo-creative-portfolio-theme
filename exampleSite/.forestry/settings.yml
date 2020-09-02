@@ -24,6 +24,21 @@ sections:
   label: Restaurant Social Media Services
   create: all
   match: "**/*"
+  - type: directory
+  path: exampleSite/content/VideographyServices
+  label: Videography Services
+  create: all
+  match: "**/*"
+  - type: directory
+  path: exampleSite/content/PhotographyServices
+  label: Photography Services
+  create: all
+  match: "**/*"
+  - type: directory
+  path: exampleSite/content/E-BookCreationServices
+  label: E-Book Creation Services
+  create: all
+  match: "**/*"
 upload_dir: exampleSite/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
