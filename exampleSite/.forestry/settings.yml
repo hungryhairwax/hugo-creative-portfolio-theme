@@ -19,7 +19,6 @@ sections:
   label: Contact
   create: all
   match: "**/*"
-  
 - type: directory
   path: exampleSite/content/RestaurantSocialMediaServices
   label: Restaurant Social Media Services
@@ -40,7 +39,6 @@ sections:
   label: E-Book Creation Services
   create: all
   match: "**/*"
-  
 upload_dir: exampleSite/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
