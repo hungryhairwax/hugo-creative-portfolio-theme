@@ -1,6 +1,6 @@
 +++
 date = ""
-title = "Restaurant Social Media Services"
+title = "Restaurant Social Media Sxservices"
 
 +++
 #### Social Media Assistance (IG & FB): R2000pm.
