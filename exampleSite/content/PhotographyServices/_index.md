@@ -1,11 +1,11 @@
 +++
 date = ""
-title = "Photography"
+title = "Photography Services"
 
 +++
-## Photography services:
+## Photo Capturing:
 
-When hiring me for photography services you have the right to distribute my photos anywhere you'd like.
+When hiring me for photography services, you have the right to distribute my photos anywhere you'd like.
 
 * R600 per hour for capturing photos
 * R100 per hour for editing photos.
