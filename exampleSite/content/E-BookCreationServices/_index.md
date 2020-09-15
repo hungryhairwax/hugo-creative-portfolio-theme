@@ -8,7 +8,7 @@ title = "Recipe Book Creation Services"
 I love books because they create a stream of income both digitally and traditionally.
 
 * R300 per page with copy
-* R200 per page with photo
+* R200 per page with a photo
 * Results-based price for marketing
 
 _Free-post edits apply_
