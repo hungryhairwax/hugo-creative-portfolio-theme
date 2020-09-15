@@ -5,10 +5,14 @@ title = "Recipe Book Creation Services"
 +++
 ## Full production of a recipe book.
 
-Recipe E-Books/ print books are digital assets that require a lot of love and attention. The photos need to look stunning, the book layout needs to be neat & the copy must be easy to read.
+I love books because they create a stream of income both digitally and traditionally.
 
 * R300 per page with copy
 * R200 per page with photo
 * Results-based price for marketing
 
 _Free-post edits apply_
+
+Example of my production quality:
+
+![](/uploads/test-page-2.png)![](/uploads/image-prototype.jpg)
