@@ -22,14 +22,8 @@ View a gallery of my restaurant-related work:
 
 [https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing](https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing "https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing")
 
+Example of my content releases:
+
+![](/uploads/screenshot-ub-sm.jpg)
+
 _Total-experience: 1 year & 6 months_
-
-***
-
-Why work with me?
-
-I offer what'd you'd get from an agency but at a much lower price. I'm also easier to contact, have fast response time & have no extra fees.
-
-I'll treat your restaurant as my own, as you'll represent my reputation. I also won't lock you into a long-term contract, you'll be able to cancel my services at any time with a month's notice.
-
-My content is stunning, sustains levels of interest & generates traffic to your website. I'm a content creator but have a degree in digital marketing, making me a mix of logic and creative energy for your benefit. 
