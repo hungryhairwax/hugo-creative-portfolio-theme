@@ -13,11 +13,23 @@ _Imagine one day, one of your followers wants to eat out. They think "where shou
 
 My job is to make managing your social media account easier & maintain your digital presence. You get:
 
-* Free access to my time & content (photos & short videos).
-* Weekly posting to your IG & FB with custom captions & hashtags, 5 days a week.
+* 20 pieces of content every month (photos & videos) with custom captions & hashtags for Facebook & Instagram
+* 24/7 contact and support from me
+* Album creation for media outlets like online magazines/ award-giving brands.
+* My constant monitoring of your social media accounts & online presence.
 
 View a gallery of my restaurant-related work:
 
 [https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing](https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing "https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing")
 
-_Note: I will not reply to comments, only like them, I will not reply to DM's & I will seldomly post to your story. Each post I make, I will send you an approval request on WhatsApp for, where you can request/make changes to the post._
+_Total-experience: 1 year & 6 months_
+
+***
+
+Why work with me?
+
+I offer what'd you'd get from an agency but at a much lower price. I'm also easier to contact, have fast response time & have no extra fees.
+
+I'll treat your restaurant as my own, as you'll represent my reputation. I also won't lock you into a long-term contract, you'll be able to cancel my services at any time with a month's notice.
+
+My content is stunning, sustains levels of interest & generates traffic to your website. I'm a content creator but have a degree in digital marketing, making me a mix of logic and creative energy for your benefit. 
