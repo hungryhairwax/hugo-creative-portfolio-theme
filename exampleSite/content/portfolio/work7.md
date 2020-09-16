@@ -1,6 +1,6 @@
 +++
 date = ""
-image = "/uploads/summer-fruits-mix.jpg"
+image = "/uploads/summer-furits.jpg"
 showonlyimage = false
 title = "Woolworths Summer Fruits Mix AD"
 weight = "5"
