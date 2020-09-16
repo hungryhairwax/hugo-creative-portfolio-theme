@@ -1,7 +1,7 @@
 +++
 date = ""
 draft = true
-image = "/uploads/veg-dosh.jpg"
+image = "/uploads/aspargus.jpg"
 showonlyimage = true
 title = "Veg Dish # 2 | Upper Bloem Restaurant"
 weight = "1"
