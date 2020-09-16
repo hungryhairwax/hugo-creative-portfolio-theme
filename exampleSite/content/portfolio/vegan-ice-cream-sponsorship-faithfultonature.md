@@ -1,6 +1,6 @@
 +++
 date = ""
-image = "/uploads/vegan-ice-cream.jpg"
+image = "/uploads/faithful.jpg"
 showonlyimage = true
 title = "Vegan Ice Cream Sponsorship | FaithfulToNature"
 weight = "8"

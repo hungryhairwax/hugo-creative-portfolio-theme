@@ -1,6 +1,6 @@
 +++
 date = ""
-image = "/uploads/future-life-smoothie-ad.jpg"
+image = "/uploads/future-life.jpg"
 showonlyimage = false
 title = "Futurelife Smoothie AD"
 weight = "2"
