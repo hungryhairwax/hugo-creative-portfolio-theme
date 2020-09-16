@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 image = "/uploads/veg-dosh.jpg"
 showonlyimage = true
 title = "Veg Dish | Upper Bloem Restaurant"
