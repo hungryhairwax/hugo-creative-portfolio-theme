@@ -13,6 +13,6 @@ I love books because they create a stream of income both digitally and tradition
 
 _Free-post edits apply_
 
-Example of my production quality:
+Example:
 
 ![](/uploads/test-page-2.png)![](/uploads/image-prototype.jpg)
