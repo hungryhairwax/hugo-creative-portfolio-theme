@@ -15,7 +15,7 @@ My job is to make managing your social media account easier & maintain your digi
 
 * 20 pieces of content every month (photos & videos) with custom captions & hashtags for Facebook & Instagram.
 * 24/7 contact and support from me.
-* Album creation for media outlets like online magazines/ award-giving brands.
+* Album access for media outlets like online magazines/ award-giving brands.
 * My constant monitoring of your social media accounts & online presence.
 
 View a gallery of my restaurant-related work:
