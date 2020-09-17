@@ -5,7 +5,7 @@ title = "Photography Services"
 +++
 ## Photo Capturing:
 
-* R600 per hour for capturing photos
+* R800 per hour for capturing photos
 * R100 per hour for editing photos.
 
 Link to prior work:
