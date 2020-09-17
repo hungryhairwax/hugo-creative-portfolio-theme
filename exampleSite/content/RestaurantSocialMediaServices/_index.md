@@ -13,7 +13,7 @@ _Imagine one day, one of your followers wants to eat out. They think "where shou
 
 My job is to make managing your social media account easier & maintain your digital presence. You get:
 
-* 20 pieces of content every month (photos & videos) with custom captions & hashtags for Facebook & Instagram.
+* 20 pieces of content every month (photos & videos) with custom captions & hashtags for Facebook & Instagram, which I will post for you.
 * 24/7 contact and support from me.
 * Album access for media outlets like online magazines/ award-giving brands.
 * My constant monitoring of your social media accounts & online presence.
