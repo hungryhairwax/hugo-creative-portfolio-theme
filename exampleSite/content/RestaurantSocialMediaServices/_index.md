@@ -17,6 +17,7 @@ My job is to make managing your social media account easier & maintain your digi
 * 24/7 contact and support from me.
 * Album access for media outlets like online magazines/ award-giving brands.
 * My constant monitoring of your social media accounts & online presence.
+* A link to your website from my profile's linktr.ee account
 
 View a gallery of my restaurant-related work:
 
