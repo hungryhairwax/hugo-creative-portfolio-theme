@@ -3,7 +3,7 @@ date = ""
 title = "Restaurant Social Media Services"
 
 +++
-#### Social Media Assistance (IG & FB): R2000pm.
+#### Social Media Assistance (IG & FB): R1 per like.
 
 FOR RESTAURANTS ONLY
 
