@@ -5,7 +5,7 @@ title = "Recipe Book Creation Services"
 +++
 ## Full production of a recipe book.
 
-I love books because they create a stream of income both digitally and traditionally.
+Books are a fantastic stream of income if you have the knowledge!
 
 * R300 per page with copy
 * R200 per page with a photo
