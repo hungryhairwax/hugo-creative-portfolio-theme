@@ -8,6 +8,4 @@ title = "Photography Services"
 * R800 per hour for capturing photos
 * R100 per hour for editing photos.
 
-Link to prior work:
-
-[https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing](https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing "https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing")
+If you'd like to get in touch please email me at georgeshegin@gmail.com
