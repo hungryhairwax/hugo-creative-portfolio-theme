@@ -1,16 +1,16 @@
 +++
 date = ""
-title = "Restaurant Social Media Services"
+title = "Restaurant Full-service Digital Marketing"
 
 +++
-#### Social Media Assistance (IG & FB): 2000 - 4000 p/m.
+#### Restaurant Full-service Digital Marketing: 2000 - 4000 p/m.
 
 FOR RESTAURANTS ONLY
 
 * Photography
 * Videography
 * Copy-writing
-* Account management
+* Account management & assistance
 * Organic marketing
 * Paid marketing
 * Conversion-based marketing
