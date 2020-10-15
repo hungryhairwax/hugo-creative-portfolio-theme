@@ -9,9 +9,11 @@ FOR RESTAURANTS ONLY
 
 * Photography
 * Videography
-* Copywiritng
+* Copy-writing
 * Account management
 * Organic marketing
+* Paid marketing
+* Conversion-based marketing
 
 If you'd like to get in touch please email me at georgeshegin@gmail.com
 
