@@ -11,3 +11,5 @@ My videos are color-graded, have royalty-free music & sound effects. I aim to ca
 * R300 per hour for editing video.
 
 _Free post-edits apply._
+
+If you'd like to get in touch please email me at georgeshegin@gmail.com
