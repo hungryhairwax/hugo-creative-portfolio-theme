@@ -1,4 +1,4 @@
-baseurl = "https://georgeheginbotham.netlify.app/"
+baseurl = "https://foodmediageorge.netlify.app/"
 title = "Portfolio & Services"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -11,10 +11,17 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "George Heginbotham's work"
-  copyright = "&copy;2020 George Heginbotham"
+  description = "Food Media George Website"
+  copyright = "&copy;2021 Food Media George"
   sidebarAbout = [
-    "I am a content creator and have a degree in Digital Marketing. I use my abilities to help brands grab attention and advertise. I'm also very passionate about cooking.",
+    "Food media George is one of the best creative food marketing agencies in Cape Town.
+
+We've worked with Upper Bloem Restaurant, La Mouette Restaurant, The Eatery Wood Fired Grill, Chef Storm Rodger, and Yo Goodness Cafe.
+
+We strive on generating sales and assets for our clients. Digital marketing and media are our means.
+
+See if our services are for you and contact us today!
+",
     "Currently based in Cape Town, South Africa"
   ]
   # Contact page
@@ -29,7 +36,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "georgeshegin@gmail.com"
+  email = "foodmediageorge@gmail.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -42,7 +49,7 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Main Page"
   url = "portfolio/"
   home = true
 
@@ -59,8 +66,8 @@ googleAnalytics = ""
   url = "PhotographyServices/"
   
     [[params.navlinks]]
-  name = "E-Book Creation Services"
-  url = "E-BookCreationServices/"
+  name = "Cook Book Creation Services"
+  url = "CookBookCreationServices/"
 
   [[params.navlinks]]
   name = "Contact Me"
