@@ -1,6 +1,6 @@
 +++
 date = ""
-title = "Restaurant Full-Service Digital Marketing"
+title = "Digital Marketing"
 
 +++
 #### Full-service Digital Marketing: 3000 - 6000p/m.
