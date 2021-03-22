@@ -1,9 +1,9 @@
 +++
 date = ""
-title = "Photography Services"
+title = "Photography"
 
 +++
-## Photo Capturing:
+## Photography:
 
 * R800 per hour for capturing photos
 * R100 per hour for editing photos.
