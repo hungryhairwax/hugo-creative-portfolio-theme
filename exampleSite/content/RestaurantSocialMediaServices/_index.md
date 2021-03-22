@@ -3,7 +3,7 @@ date = ""
 title = "Restaurant Full-Service Digital Marketing"
 
 +++
-#### Full-service Digital Marketing: 4000 - 6000p/m.
+#### Full-service Digital Marketing: 3000 - 6000p/m.
 
 * Photography
 * Videography
