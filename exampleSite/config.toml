@@ -1,4 +1,4 @@
-baseurl = "https://foodmediageorge.netlify.app/"
+baseurl = "https://foodmediageorge.netlify.app/portfolio/"
 title = "Portfolio & Services"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
