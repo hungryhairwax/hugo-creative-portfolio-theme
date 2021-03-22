@@ -20,23 +20,23 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/RestaurantSocialMediaServices
-  label: Restaurant Social Media Services
+  path: exampleSite/content/DigitalMarketing
+  label: Digital Marketing
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/VideographyServices
-  label: Videography Services
+  path: exampleSite/content/Videography
+  label: Videography
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/PhotographyServices
-  label: Photography Services
+  path: exampleSite/content/Photography
+  label: Photography
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/CookBookCreationServices
-  label: CookBook Creation Services
+  path: exampleSite/content/CookbookProduction
+  label: Cookbook Production
   create: all
   match: "**/*"
 upload_dir: exampleSite/static/uploads
