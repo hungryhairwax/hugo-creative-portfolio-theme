@@ -1,8 +1,8 @@
 +++
 date = ""
-image = "/uploads/veg-dosh.jpg"
+image = "/uploads/upper-bloem-1.jpg"
 showonlyimage = true
-title = "Veg Dish | Upper Bloem Restaurant"
+title = "Blueberry | Upper Bloem Restaurant"
 weight = "1"
 
 +++
