@@ -2,10 +2,10 @@
 date = ""
 image = "/uploads/baconandeggsand-1.jpg"
 showonlyimage = false
-title = "Bacon & Egg Half Sandwich"
+title = "Burgers From Scratch Advert"
 weight = "11"
 
 +++
-{{< youtube DAEJTCuI0WI >}}
+{{< youtube Zr0gb9qR8oU >}}
 
-Personal project.
+[https://burgersfromscratch.company.site/](https://burgersfromscratch.company.site/ "https://burgersfromscratch.company.site/")
