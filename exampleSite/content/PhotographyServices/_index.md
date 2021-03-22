@@ -10,4 +10,4 @@ title = "Photography Services"
 
 If you'd like to get in touch please email me at georgeshegin@gmail.com
 
-![](/uploads/walk-mon.jpg)![](/uploads/2222.jpg)
+View photo portfolio: [Food photography - Google Drive](https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing)
