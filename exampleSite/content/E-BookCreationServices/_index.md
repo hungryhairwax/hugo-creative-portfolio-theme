@@ -5,14 +5,9 @@ title = "Recipe Book Creation Services"
 +++
 ## Full production of a recipe book.
 
-Recipe-books are a fantastic stream of income if you have the knowledge!
+Looking to share recipes, gain reputation and own an asset? We can create a stunning print and an digital cookbook for you, have it published on Amazon, Google Books and with affordable independent printing companies.
 
-* R300 per page with copy
-* R200 per page with a photo
-* Results-based price for marketing
+* R500 per hour (book design)
+* R3000 - R6000 per month (digital marketing)
 
-_Free-post edits apply_
-
-Example:
-
-![](/uploads/test-page-2.png)![](/uploads/image-prototype.jpg)
+Past Projects: [Burgers From Scratch by George Anthony](  https://burgersfromscratch.company.site/)
