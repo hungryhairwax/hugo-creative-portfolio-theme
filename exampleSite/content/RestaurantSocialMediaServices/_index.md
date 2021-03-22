@@ -3,17 +3,16 @@ date = ""
 title = "Restaurant Full-Service Digital Marketing"
 
 +++
-#### Restaurant Full-service Digital Marketing: 2000 - 4000 p/m.
-
-FOR RESTAURANTS ONLY
+#### Full-service Digital Marketing: 4000 - 6000p/m.
 
 * Photography
 * Videography
 * Copy-writing
-* Account management & assistance
+* Google Advertising
+* Search Engine Marketing
+* Social Media Account management
 * Organic marketing
-* Paid marketing
-* Conversion-based marketing
+* Facebook Advertising
 
 If you'd like to get in touch please email me at georgeshegin@gmail.com
 
