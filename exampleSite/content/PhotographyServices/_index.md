@@ -10,4 +10,4 @@ title = "Photography Services"
 
 If you'd like to get in touch please email me at georgeshegin@gmail.com
 
-![](/uploads/steaklam.jpg)![](/uploads/snickersvegan.jpg)
+![](/uploads/walk-mon.jpg)![](/uploads/2222.jpg)
