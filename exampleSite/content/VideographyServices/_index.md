@@ -1,9 +1,9 @@
 +++
 date = ""
-title = "Videography Services"
+title = "Videography"
 
 +++
-## Video production:
+## Videography:
 
 We aim to capture a process and communicate it in a fun & exciting way.
 
