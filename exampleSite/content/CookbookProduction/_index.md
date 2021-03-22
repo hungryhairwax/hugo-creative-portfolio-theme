@@ -12,4 +12,4 @@ Looking to share recipes, gain reputation and own an asset? We can create a stun
 
 Past Projects: [Burgers From Scratch by George Anthony](https://burgersfromscratch.company.site/)
 
-{{< amzn.to 3tMH8qn >}}
+{{< amzn 3tMH8qn >}}
