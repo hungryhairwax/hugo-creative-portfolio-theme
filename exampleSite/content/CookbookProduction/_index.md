@@ -12,6 +12,4 @@ Looking to share recipes, gain reputation and own an asset? We can create a stun
 
 Past Projects: [Burgers From Scratch by George Anthony](https://burgersfromscratch.company.site/)
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=georgeantho0b-20&marketplace=amazon&amp;region=US&placement=B08XL6H53W&asins=B08XL6H53W&linkId=c597f21fa9b44814e64c5e6d5e75bfeb&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-
-    </iframe>
+{{< amazon 3tMH8qn >}}
