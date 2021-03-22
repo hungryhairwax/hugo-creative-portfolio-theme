@@ -74,9 +74,7 @@ See if our services are for you and contact us today!
   url = "contact/"
 
   [params.social]
-  email         = "georgeshegin@gmail.com"
-  whatsapp      = "https://wa.me/qr/MZ6DTFWF2MUTC1"
-  linkedin      = "https://www.linkedin.com/in/george-heginbotham-88a915127/"
-  instagram     = "https://www.instagram.com/georgeheginbotham/"
-  youtube       = "https://www.youtube.com/channel/UCoo48DdFqp-CcuVsYLFndKA"
-  facebook      = "https://www.facebook.com/george.heginbotham"
+  email         = "foodmediageorge@gmail.com"
+  instagram     = "https://www.instagram.com/foodmediageorge/"
+  youtube       = "https://www.youtube.com/channel/UCiAkhHd9HlQOYR_aL7pnyLQ"
+  facebook      = "https://www.facebook.com/foodmediageorge"
