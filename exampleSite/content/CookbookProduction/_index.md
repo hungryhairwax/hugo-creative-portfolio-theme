@@ -11,5 +11,3 @@ Looking to share recipes, gain reputation and own an asset? We can create a stun
 * R3000 - R6000 per month (digital marketing)
 
 Past Projects: [Burgers From Scratch by George Anthony](https://burgersfromscratch.company.site/)
-
-{{< amznto 3tMH8qn >}}
