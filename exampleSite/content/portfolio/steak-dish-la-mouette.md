@@ -3,11 +3,9 @@ date = ""
 image = "/uploads/steaklam.jpg"
 showonlyimage = true
 title = "Steak Dish | La Mouette"
-weight = "10"
+weight = "5"
 
 +++
-You can view my restaurant content here:
-
-[https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing](https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing "https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F?usp=sharing")
+Food photography album: [Food Photography - Google Drive](https://drive.google.com/drive/folders/1iG1zGepIMjv5VRU80M_PSj5_nEugyq9F)
 
 Reference: Gerrit Bruwer
