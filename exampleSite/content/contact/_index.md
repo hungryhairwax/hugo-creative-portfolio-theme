@@ -1,6 +1,6 @@
 +++
 date = ""
-title = "Contact Me"
+title = "Contact Us"
 
 +++
-Contact me here:
+Contact us here:
