@@ -14,6 +14,6 @@ title = "Restaurant Full-Service Digital Marketing"
 * Organic marketing
 * Facebook Advertising
 
-If you'd like to get in touch please email me at georgeshegin@gmail.com
+If you'd like to get in touch please email me at foodmediageorge@gmail.com
 
 Thank you!
