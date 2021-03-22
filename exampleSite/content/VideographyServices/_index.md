@@ -14,4 +14,4 @@ _Free post-edits apply._
 
 If you'd like to get in touch please email us at foodmediageorge@gmail.com
 
-Food Videography: [https://drive.google.com/drive/folders/1GGn945d-7fpUMSpP2AqrYYUhRDDKC28N?usp=sharing](https://drive.google.com/drive/folders/1GGn945d-7fpUMSpP2AqrYYUhRDDKC28N?usp=sharing "Food Videography - Google Drive")
+Food Videography: [Food Videography - Google Drive](https://drive.google.com/drive/folders/1GGn945d-7fpUMSpP2AqrYYUhRDDKC28N?usp=sharing)
