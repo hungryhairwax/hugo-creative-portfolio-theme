@@ -49,20 +49,20 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "Restaurant Social Media Services"
-  url = "RestaurantSocialMediaServices/"
+  name = "Digital Marketing"
+  url = "DigitalMarketing/"
   
     [[params.navlinks]]
-  name = "Videography Services"
-  url = "VideographyServices/"
+  name = "Videography"
+  url = "Videography/"
   
     [[params.navlinks]]
   name = "Photography Services"
-  url = "PhotographyServices/"
+  url = "Photography/"
   
     [[params.navlinks]]
-  name = "Cook Book Creation Services"
-  url = "CookBookCreationServices/"
+  name = "Cookbook Production"
+  url = "CookbookProduction/"
 
   [[params.navlinks]]
   name = "Contact Me"
