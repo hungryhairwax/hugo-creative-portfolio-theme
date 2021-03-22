@@ -1,11 +1,11 @@
 +++
 date = ""
-image = "/uploads/burger-hand.jpg"
+image = "/uploads/chicken-burger.jpg"
 showonlyimage = true
-title = "Fried Egg & Avo Burger"
+title = "Chicken Burger | Burgers From Scratch"
 weight = "3"
 
 +++
-Images for my upcoming burger book:
+[https://burgersfromscratch.company.site/](https://burgersfromscratch.company.site/ "https://burgersfromscratch.company.site/")
 
-[https://drive.google.com/drive/folders/1_e26XVs5FNAq5mi33wSdCxU0aXqZVGsn?usp=sharing](https://drive.google.com/drive/folders/1_e26XVs5FNAq5mi33wSdCxU0aXqZVGsn?usp=sharing "https://drive.google.com/drive/folders/1_e26XVs5FNAq5mi33wSdCxU0aXqZVGsn?usp=sharing")
+Recipe Book Creation Services
