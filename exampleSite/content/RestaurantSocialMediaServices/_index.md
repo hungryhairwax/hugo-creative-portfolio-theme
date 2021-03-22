@@ -14,6 +14,10 @@ title = "Restaurant Full-Service Digital Marketing"
 * Organic marketing
 * Facebook Advertising
 
-If you'd like to get in touch please email me at foodmediageorge@gmail.com
+Past clients:
 
-Thank you!
+[Upper Bloem Restaurant](https://upperbloemrestaurant.co.za/) 
+
+[La Mouette](http://www.lamouette-restaurant.co.za/)
+
+[Yo Goodness](https://www.instagram.com/yo_goodness_cafe/)
