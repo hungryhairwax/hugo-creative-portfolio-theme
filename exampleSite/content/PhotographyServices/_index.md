@@ -9,3 +9,5 @@ title = "Photography Services"
 * R100 per hour for editing photos.
 
 If you'd like to get in touch please email me at georgeshegin@gmail.com
+
+![](/uploads/steaklam.jpg)![](/uploads/snickersvegan.jpg)
