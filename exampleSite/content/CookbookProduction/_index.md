@@ -5,7 +5,7 @@ title = "Cookbook Production"
 +++
 ## Full production of a cookbook.
 
-Looking to share recipes, gain reputation and own an asset? We create stunning print and digital cookbooks. 
+Looking to share recipes, gain reputation and own an asset? We create stunning print and digital cookbooks with Adobe InDesign. 
 
 * R500 per hour (book design and publishing)
 * R1200 per hour (photography)
