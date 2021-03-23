@@ -65,7 +65,7 @@ googleAnalytics = ""
   url = "CookbookProduction/"
 
   [[params.navlinks]]
-  name = "Contact Me"
+  name = "Contact Us"
   url = "contact/"
 
   [params.social]
