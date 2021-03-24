@@ -3,7 +3,7 @@ date = ""
 title = "Digital Marketing"
 
 +++
-#### Full-service Digital Marketing: 3000 - 6000p/m.
+#### Full-Service Digital Marketing: 3000 - 6000p/m.
 
 * Photography
 * Videography
