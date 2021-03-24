@@ -8,4 +8,6 @@ weight = 9
 +++
 {{< youtube KrdIgM2TaaI >}}
 
-Reference: Storm Rodger
+We filmed and edited Storm Rodgers Conscious Cooking class. We also designed her logo.
+
+![](/uploads/logo-design.jpg)
