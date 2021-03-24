@@ -7,16 +7,18 @@ title = "Digital Marketing"
 
 * Photography
 * Videography
-* Copy-writing
+* Copywriting
 * Google Advertising
-* Search Engine Marketing
-* Social Media Account management
-* Organic marketing
 * Facebook Advertising
+* Search Engine Marketing
+* Social Media Account Management
+* Organic Marketing
+* Digital Presence Analysis
+* Monthly Performance Data Reports
 
 Past clients:
 
-[Upper Bloem Restaurant](https://upperbloemrestaurant.co.za/) 
+[Upper Bloem Restaurant](https://upperbloemrestaurant.co.za/)
 
 [La Mouette](http://www.lamouette-restaurant.co.za/)
 
