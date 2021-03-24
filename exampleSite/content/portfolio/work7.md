@@ -7,5 +7,3 @@ weight = "5"
 
 +++
 {{< youtube q3JjZ2zhozw >}}
-
-Personal Project
