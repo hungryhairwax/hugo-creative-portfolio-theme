@@ -8,6 +8,8 @@ weight = 9
 +++
 {{< youtube KrdIgM2TaaI >}}
 
-We filmed and edited Storm Rodgers Conscious Cooking class. We also designed her logo.
+We filmed and edited Storm Rodgers Conscious Cooking class.
+
+We also designed her logo.
 
 ![](/uploads/cccccc.jpg)
