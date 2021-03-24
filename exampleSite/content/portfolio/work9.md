@@ -1,6 +1,6 @@
 +++
 date = ""
-image = "/uploads/storm-cc.jpg"
+image = "/uploads/storm-cover-videop.jpg"
 showonlyimage = false
 title = "Storm Rodger | Conscious Cooking"
 weight = 9
